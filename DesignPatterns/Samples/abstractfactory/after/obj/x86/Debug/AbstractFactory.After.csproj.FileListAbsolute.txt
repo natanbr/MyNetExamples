@@ -1,0 +1,4 @@
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\AbstractFactory\After\bin\Debug\AbstractFactory.After.exe
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\AbstractFactory\After\bin\Debug\AbstractFactory.After.pdb
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\AbstractFactory\After\obj\x86\Debug\AbstractFactory.After.exe
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\AbstractFactory\After\obj\x86\Debug\AbstractFactory.After.pdb

@@ -1,0 +1,15 @@
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\Middle\bin\Debug\CastleDemo.exe
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\Middle\bin\Debug\CastleDemo.pdb
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\Middle\obj\x86\Debug\DI.Middle.csprojResolveAssemblyReference.cache
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\Middle\obj\x86\Debug\CastleDemo.exe
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\Middle\obj\x86\Debug\CastleDemo.pdb
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\Middle\bin\Debug\CastleDemo.exe.config
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\Middle\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\Middle\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\Middle\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\Middle\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\Middle\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\Middle\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\Middle\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\Middle\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\Middle\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml

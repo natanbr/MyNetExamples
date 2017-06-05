@@ -1,0 +1,4 @@
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\Decorator\After\bin\Debug\Decorator.After.exe
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\Decorator\After\bin\Debug\Decorator.After.pdb
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\Decorator\After\obj\x86\Debug\Decorator.After.exe
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\Decorator\After\obj\x86\Debug\Decorator.After.pdb

@@ -1,0 +1,5 @@
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\State\Before\bin\Debug\StateSample.exe
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\State\Before\bin\Debug\StateSample.pdb
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\State\Before\obj\Debug\State.Before.csprojResolveAssemblyReference.cache
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\State\Before\obj\Debug\StateSample.exe
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\State\Before\obj\Debug\StateSample.pdb

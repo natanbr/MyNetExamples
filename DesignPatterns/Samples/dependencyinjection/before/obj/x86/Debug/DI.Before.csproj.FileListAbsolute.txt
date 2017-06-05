@@ -1,0 +1,4 @@
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\Before\bin\Debug\CastleDemo.exe
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\Before\bin\Debug\CastleDemo.pdb
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\Before\obj\x86\Debug\CastleDemo.exe
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\Before\obj\x86\Debug\CastleDemo.pdb

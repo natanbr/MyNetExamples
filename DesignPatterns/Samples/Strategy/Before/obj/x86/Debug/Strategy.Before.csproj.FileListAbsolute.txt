@@ -1,0 +1,4 @@
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\Strategy\Before\bin\Debug\Strategy.Before.exe
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\Strategy\Before\bin\Debug\Strategy.Before.pdb
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\Strategy\Before\obj\x86\Debug\Strategy.Before.exe
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\Strategy\Before\obj\x86\Debug\Strategy.Before.pdb

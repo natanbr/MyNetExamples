@@ -1,0 +1,5 @@
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\Visitor\Before\bin\Debug\Visitor.Before.exe
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\Visitor\Before\bin\Debug\Visitor.Before.pdb
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\Visitor\Before\obj\Debug\Visitor.Before.csprojResolveAssemblyReference.cache
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\Visitor\Before\obj\Debug\Visitor.Before.exe
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\Visitor\Before\obj\Debug\Visitor.Before.pdb

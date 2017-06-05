@@ -1,0 +1,5 @@
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\Factory\Before\bin\Debug\Factory.Before.exe
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\Factory\Before\bin\Debug\Factory.Before.pdb
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\Factory\Before\obj\x86\Debug\Factory.Before.csprojResolveAssemblyReference.cache
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\Factory\Before\obj\x86\Debug\Factory.Before.exe
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\Factory\Before\obj\x86\Debug\Factory.Before.pdb

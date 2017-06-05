@@ -1,0 +1,7 @@
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\After\bin\Debug\CastleDemo.exe
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\After\bin\Debug\CastleDemo.pdb
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\After\bin\Debug\Castle.Core.dll
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\After\bin\Debug\Castle.Windsor.dll
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\After\obj\x86\Debug\DI.After.csprojResolveAssemblyReference.cache
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\After\obj\x86\Debug\CastleDemo.exe
+C:\Users\nbraslav\Documents\Course\DesignPatterns\Samples\DependencyInjection\After\obj\x86\Debug\CastleDemo.pdb
