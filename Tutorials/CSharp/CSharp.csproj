@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DAF14C3D-B6C9-4C45-B66C-19EF23EC6A1E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CSharp</RootNamespace>
+    <AssemblyName>CSharp</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdvCs\M2 Generic Class\MultiDictionary\IMultiDictionary.cs" />
+    <Compile Include="AdvCs\M2 Generic Class\MultiDictionary\MultiDictionary.cs" />
+    <Compile Include="AdvCs\M2 Generic Class\MultiDictionary\MultiDictionarySample.cs" />
+    <Compile Include="AdvCs\M4 Advanced Delegates Events\AyncDlegateDemo\AyncDlegateDemo.cs" />
+    <Compile Include="AdvCs\M4 Advanced Delegates Events\DelegateSample\DelegateSample.cs" />
+    <Compile Include="AdvCs\M4 Advanced Delegates Events\DelegatesAndEvents\Alarm.cs" />
+    <Compile Include="AdvCs\M4 Advanced Delegates Events\DelegatesAndEvents\DryContactDetector.cs" />
+    <Compile Include="AdvCs\M4 Advanced Delegates Events\DelegatesAndEvents\IAlarm.cs" />
+    <Compile Include="AdvCs\M4 Advanced Delegates Events\DelegatesAndEvents\DelegatesAndEventsMain.cs" />
+    <Compile Include="AdvCs\M4 Advanced Delegates Events\DelegatesAndEvents\SmokeDetector.cs" />
+    <Compile Include="AdvCs\M1 Reflection Generation\AttributeDemo.cs" />
+    <Compile Include="AdvCs\M1 Reflection Generation\CodeDOMSample.cs" />
+    <Compile Include="AdvCs\M4 Advanced Delegates Events\EventsDelegateSample\MailArrivedEventArgs.cs" />
+    <Compile Include="AdvCs\M4 Advanced Delegates Events\EventsDelegateSample\MailManager.cs" />
+    <Compile Include="AdvCs\M4 Advanced Delegates Events\EventsDelegateSample\MailSystemMain.cs" />
+    <Compile Include="AdvCs\M3 Managing Resources\GarbageCollectionSamples\GarbageCollectionMain.cs" />
+    <Compile Include="AdvCs\M3 Managing Resources\NativeJobSample\Job.cs" />
+    <Compile Include="AdvCs\M3 Managing Resources\NativeJobSample\NativeJob.cs" />
+    <Compile Include="AdvCs\M3 Managing Resources\NativeJobSample\NativeJobMain.cs" />
+    <Compile Include="AdvCs\M3 Managing Resources\MemoryPinningSample\MemoryPinningCs\API.cs" />
+    <Compile Include="AdvCs\M3 Managing Resources\MemoryPinningSample\MemoryPinningCs\Program.cs" />
+    <Compile Include="AdvCs\M3 Managing Resources\MemoryPinningSample\MemoryPinningCs\Test.cs" />
+    <Compile Include="AdvCs\M1 Reflection Generation\ReflectionSamples.cs" />
+    <Compile Include="AdvCs\M2 Generic Class\VarianceSamples.cs" />
+    <Compile Include="AdvCs\M5 Serialization\Autoserialize\AutoSerialize.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AdvCs\M5 Serialization\Autoserialize\Company.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AdvCs\M5 Serialization\Autoserialize\Department.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AdvCs\M5 Serialization\Autoserialize\Employee.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AdvCs\M5 Serialization\CustomSerialization\MyStringData.cs" />
+    <Compile Include="AdvCs\M5 Serialization\CustomSerialization\Program.cs" />
+    <Compile Include="AdvCs\M5 Serialization\SerializationDemo\BinaryFormatting.cs" />
+    <Compile Include="AdvCs\M5 Serialization\SerializationDemo\Customer.cs" />
+    <Compile Include="AdvCs\M5 Serialization\SerializationDemo\DataContractSerialization.cs" />
+    <Compile Include="AdvCs\M5 Serialization\SerializationDemo\Program.cs" />
+    <Compile Include="AdvCs\M5 Serialization\SerializationDemo\SoapFormatting.cs" />
+    <Compile Include="AdvCs\M5 Serialization\SerializationDemo\XmlSerialization.cs" />
+    <Compile Include="AdvCs\M7 PLink\Execute.cs" />
+    <Compile Include="Algos\BoxMuller.cs" />
+    <Compile Include="Core\Attributes.cs" />
+    <Compile Include="DiffUtiles.cs" />
+    <Compile Include="Enums.cs" />
+    <Compile Include="FunctionDesctiptions.cs" />
+    <Compile Include="Process.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="AdvCs\M1 Reflection Generation\DynInvoke.cs" />
+    <Compile Include="TcpWrite.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AdvCs\M3 Managing Resources\MemoryPinningSample\MemoryPinning.sln" />
+    <Content Include="AdvCs\M3 Managing Resources\NativeJobSample\ManagingResourcesDisposeDisposePattern.txt" />
+    <Content Include="AdvCs\M3 Managing Resources\MemoryPinningSample\MemoryPinningCpp\Export.cpp" />
+    <Content Include="AdvCs\M3 Managing Resources\MemoryPinningSample\MemoryPinningCpp\Export.def" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="AdvCs\M6 Processes, AppDomains and Threads\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="AdvCs\M3 Managing Resources\MemoryPinningSample\MemoryPinningCpp\MemoryPinningCpp.vcxproj" />
+    <None Include="AdvCs\M3 Managing Resources\MemoryPinningSample\MemoryPinningCpp\MemoryPinningCpp.vcxproj.filters" />
+    <None Include="ProcessTest\echo.bat">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

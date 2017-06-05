@@ -1,0 +1,28 @@
+﻿<Window x:Class="WPF_Tutorials.TreeViewWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:treeView="clr-namespace:WPF_Tutorials.TreeView"
+        Title="TreeViewWindow" Height="350" Width="525">
+    <Window.Resources>
+        <HierarchicalDataTemplate x:Key="ViewTreeTemplate" ItemsSource="{Binding}">
+            <TextBlock Text="{Binding Name}" />
+        </HierarchicalDataTemplate>
+    </Window.Resources>
+
+    <Window.DataContext>
+        <treeView:ViewModel/>
+    </Window.DataContext>
+<Grid>
+    <TreeView
+        ItemTemplate="{StaticResource ViewTreeTemplate}"
+        ItemsSource="{Binding JointTree1}" Margin="0,0,278.4,170.8"/>
+    <TreeView
+        ItemTemplate="{StaticResource ViewTreeTemplate}"
+        ItemsSource="{Binding JointTree2}" Margin="245,0,0.4,170.8"/>
+    <TreeView
+        Name="JointTree3"
+        ItemTemplate="{StaticResource ViewTreeTemplate}"
+                SelectedItemChanged="TreeView3_OnSelectedItemChanged"
+        ItemsSource="{Binding JointTree3}" Margin="0,155,278.4,9.8"/>
+    </Grid>
+</Window>
